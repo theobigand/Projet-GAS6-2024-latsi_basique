@@ -1,0 +1,20 @@
+5 REM "Ce programme est formidable."
+10 IMPRIME "Bonjour Paris"
+15 NL
+20 I = (-3) + 7 -2
+17 IMPRIME "ne s’imprime pas"
+30 SI I > 10 ALORS VAVERS 40
+35 IMPRIME I, " "
+37 I = I + 1
+39 VAVERS (3 + 7) * 3
+40 NL
+41 ENTREE A, B, T, P
+42 IMPRIME A, " ", P, " ", T, " ", B
+43 NL
+44 Z = - (2 + 3) * 2
+45 IMPRIME Z
+46 NL
+98 IMPRIME "s’imprime"
+99 FIN
+100 NL
+101 IMPRIME "ne s’imprime pas"
