@@ -2,11 +2,12 @@ Pour compiler:
     dune build
 
 Pour exécuter le programme:
-    Avec un fichier en paramètre:
+
+Avec un fichier en paramètre:
     
         _build/default/main.exe exemple.exp
 
-    En lisant depuis l'entrée standard:
+En lisant depuis l'entrée standard:
     
         _build/default/main.exe
 
